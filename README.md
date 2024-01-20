@@ -1,0 +1,1 @@
+This program will create a quantum entangled circuit one step at a timewill visually displaying several of the steps. This circuit will run on both aquantum simulator and a quantum computer. It will cover the basics ofcircuit construction as well as creating visually output.
